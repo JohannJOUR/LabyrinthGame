@@ -2,6 +2,7 @@
 
 Ce petit projet consiste en la création d’un jeu de labyrinthe développé avec Unity,dans le but d’acquérir et de renforcer des compétences en programmation, en design de jeu et en gestion de projet.
 
+
 # Objectifs du projet
 
 - Créer un petit jeu jouable avec Unity
@@ -10,8 +11,7 @@ Ce petit projet consiste en la création d’un jeu de labyrinthe développé av
 
 # Lancer le jeu Unity
 
-Téléchargez le fichier `labyrinthGame.exe` dans le dépôt et lancez-le depuis Windows.  
-Pas d'installation nécessaire.
+Téléchargez le fichier ZIP du jeu, extrayez-le, puis lancez l'application labyrinthGame.exe dans le dossier LabyrinthGame-main.
 
 # Outils utilisés
 
