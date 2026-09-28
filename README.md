@@ -2,7 +2,7 @@
 
 Ce petit projet consiste en la création d’un jeu de labyrinthe développé avec Unity,dans le but d’acquérir et de renforcer des compétences en programmation, en design de jeu et en gestion de projet.
 
-<img src:"imgs/Img_Menu.png" alt = "Capture du jeu" width = "400" >
+<img src="imgs/Img_Menu.png" alt = "Capture du jeu" width = "400">
 
 
 # Objectifs du projet
